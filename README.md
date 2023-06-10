@@ -1,0 +1,2 @@
+# GTS
+galang teknologi solusion
